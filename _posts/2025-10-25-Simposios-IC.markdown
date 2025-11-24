@@ -6,7 +6,7 @@ date:   2025-10-25 18:39:21 -0300
 categories: IC
 author: Coordenação
 
-intro: Apresentações do alunos de Ciber nos Simpósios de Iniciação Científica da FATEC-SP e Centro Universitário FEI.
+intro: Participação nos Simpósios de Iniciação Científica
 intro_image: /assets/img/sicfei_2025.jpg
 intro_image_ratio: is-4by3
 ---
