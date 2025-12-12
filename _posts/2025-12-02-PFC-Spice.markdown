@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Projeto Final de Curso - Interface para Simulador de Circuitos
+image: /assets/img/simulador.png
+date:   2025-12-02 18:39:21 -0300
+categories: PFC
+author: Coordenação
+
+intro: Desenvolvimento de Interface para Simulador de Circuitos
+intro_image: /assets/img/PFC-interface.jpg
+intro_image_ratio: is-16by9
+---
+
+A engenharia depende fortemente de simulações para validar conceitos, prever comportamentos e otimizar projetos antes da implementação física. Os simuladores elétricos desempenham um papel essencial nesse processo ao permitir que engenheiros explorem diferentes configurações, identifiquem falhas potenciais e aprimorem o desempenho de sistemas sem custos elevados ou riscos associados a testes experimentais. Essas ferramentas viabilizam um avanço tecnológico mais rápido e eficiente, impulsionando pesquisas e inovações na área.
+
+Os simuladores elétricos desempenham um papel fundamental na engenharia elétrica e eletrônica ao permitir a modelagem e análise de circuitos sem a necessidade de montagem física. Esses softwares possibilitam a realização de testes, ajustes e otimizações em projetos de maneira eficiente e econômica, reduzindo custos e tempo de desenvolvimento.
+No entanto, muitas ferramentas de simulação ainda apresentam desafios relacionados à usabilidade, exigindo um conhecimento técnico profundo para sua operação. Melhorar a interface e a experiência do usuário pode gerar um impacto significativo na produtividade dos engenheiros, tornando o software mais acessível e intuitivo. Um sistema com design otimizado e funcionalidades mais amigáveis pode acelerar o aprendizado, reduzir erros e aumentar a eficiência nas análises, proporcionando uma experiência mais fluida e integrada ao fluxo de trabalho dos profissionais.
+
+A implementação de uma interface aprimorada para um simulador como o NgSpice pode transformar a forma como engenheiros interagem com simulações elétricas, tornando o processo mais ágil e acessível a uma gama maior de usuários. A inovação na interface contribui não apenas para o desempenho individual do usuário, mas também para avanços em pesquisa e desenvolvimento na engenharia elétrica. Neste contexto, este projeto desenvolveu uma interface dinâmica e otimizada para o simulador de circuitos NgSpice, utilizando LUA.
+
+

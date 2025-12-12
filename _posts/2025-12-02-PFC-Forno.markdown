@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Projeto Final de Curso - Forno Combinado
+image: /assets/img/placa_forno.png
+date:   2025-12-02 18:39:21 -0300
+categories: PFC
+author: Coordenação
+
+intro: Eletrônica Embarcada no Controle de Fornos Combinados
+intro_image: /assets/img/PFC-forno.jpg
+intro_image_ratio: is-16by9
+---
+
+A engenharia e o controle de sistemas térmicos constituem um campo interdisciplinar que abrange conhecimentos de diversas áreas, incluindo engenharia, física e matemática. Esses sistemas têm ampla aplicação em setores como climatização, aquecimento de ambientes, produção de alimentos, indústria automotiva, manufatura de materiais e geração de energia térmica. A modelagem desses sistemas desempenha um papel fundamental na compreensão de seu comportamento e na previsão de seu desempenho, permitindo a otimização do projeto para maximizar a eficiência energética, reduzir o consumo de recursos e minimizar impactos ambientais. Além disso, um controle preciso é essencial para garantir segurança, eficácia operacional e redução de custos.
+
+Neste contexto, este projeto realizou o desenvolvimento de um forno combinado com um sistema de controle eletrônico embarcado, responsável pela regulação precisa de temperatura e umidade. O projeto envolveu a construção física do forno e o desenvolvimento de uma estrutura eletrônica dedicada, utilizando uma placa de circuito impresso baseada no chip ESP. Esse microcontrolador é responsável por todo o sistema de automação, integrando uma interface com tela para configuração dos parâmetros de funcionamento do forno. Além disso, o sistema foi conectado a um servidor e serviço web, permitindo a análise remota dos dados operacionais e garantindo maior controle e otimização do processo térmico.
+
+O sistema implementado apresenta um desempenho satisfatório no controle térmico, empregando diferentes técnicas de controle, como PID (Proportional-Integral-Derivative), ADRC (Active Disturbance Rejection Control) e SMC (Sliding Mode Control). A abordagem adotada possibilita a análise comparativa entre diferentes estratégias de controle, garantindo que o aquecimento do alimento ocorra de maneira uniforme e eficiente. Dessa forma, o forno desenvolvido se destaca pela sua precisão no controle térmico, eficiência energética e qualidade no processamento de alimentos.
+
+
