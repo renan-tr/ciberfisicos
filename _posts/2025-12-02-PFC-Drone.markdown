@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Projeto Final de Curso - Controle de Drone com IA
+image: /assets/img/controle_drone.png
+date:   2025-12-02 18:39:21 -0300
+categories: PFC
+author: Coordenação
+
+intro: Controle de Drone com Inteligência Artificial
+intro_image: /assets/img/PFC-Drone.jpg
+intro_image_ratio: is-16by9
+---
+
+Veículos aéreos não tripulados quadricópteros (isto é, drones de quatro rotores) tornaram-se ferramentas indispensáveis em diversos setores da sociedade moderna. Sua capacidade de voo estável, pairagem e acesso a áreas de difícil alcance permite empregar esses drones em atividades que vão desde segurança e vigilância até agricultura de precisão e resposta a desastres naturais. De fato, drones quadricópteros vêm sendo utilizados extensivamente em aplicações de patrulhamento de segurança, monitoramento de tráfego, inspeção de linhas de transmissão elétrica, sensoriamento remoto ambiental, entre outras.
+
+Considerando todo esse panorama, fica evidente que a integração de drones quadricópteros com técnicas avançadas de IA, em especial o Aprendizado por Reforço Profundo, desponta como um campo de grande relevância e potencial prático. Espera-se que agentes inteligentes treinados por reforço possam controlar quadricópteros de forma autônoma e eficiente, habilitando funcionalidades como navegação adaptativa em ambientes incertos, cooperação em enxames de drones e execução segura de missões complexas sem intervenção humana direta. 
+
+Nesse contexto, este projeto investigou o uso de técnicas de Aprendizado por Reforço Profundo (Deep Reinforcement Learning – DRL) no controle de voo de um quadricóptero com seis graus de liberdade (6 DOF), por meio de modelagem e simulação em MATLAB/Simulink. A dinâmica completa do veículo é obtida a partir do formalismo de Newton–Euler e de ângulos de Euler, parametrizada com as características físicas do micro-drone Crazyflie 2.1+. Os resultados de simulação mostram que o controlador baseado em DRL apresenta desempenho comparável, e em diversos cenários superior, ao PID de referência, sobretudo quanto à adaptação a perturbações e a diferentes condições iniciais.

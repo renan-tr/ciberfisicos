@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Projeto Final de Curso - Captação de Energia RF
+image: /assets/img/placa_rf.jpg
+date:   2025-12-02 18:39:21 -0300
+categories: PFC
+author: Coordenação
+
+intro: Captação de Energia Ambiente de Rádio Frequência
+intro_image: /assets/img/PFC-RF.jpg
+intro_image_ratio: is-16by9
+---
+
+É possível captar a energia das ondas do Wi-Fi para alimentar circuitos?
+
+O avanço contínuo da tecnologia tem impulsionado o desenvolvimento de sistemas eletrônicos autônomos e altamente eficientes do ponto de vista energético. Nesse contexto, a captação de energia ambiente por ondas de rádio frequência (RF) desponta como uma alternativa sustentável para a alimentação de dispositivos de baixa potência, especialmente em aplicações vinculadas à Internet das Coisas (IoT) e sistemas embarcados. A crescente demanda por dispositivos remotos e autossuficientes reforça a necessidade de explorar soluções energéticas capazes de reduzir a dependência de baterias convencionais, promovendo maior autonomia operacional e sustentabilidade tecnológica. 
+
+Dessa forma, este trabalho tem como objetivo investigar a viabilidade e a otimização de um sistema de captação e conversão de energia RF para aplicações de baixa potência, com ênfase na operação na faixa de 2,45 GHz, que é usada pelos sinais de WiFi e Bluetooth. A arquitetura proposta abrange o projeto, simulação e implementação de um circuito retificador RF-DC, integrando antenas ressonantes, redes de casamento de impedância e um estágio retificador baseado em diodos Schottky de baixa barreira. A metodologia experimental adotada inclui testes em bancada com analisadores de espectro e medições de tensão contínua em diferentes configurações do circuito, bem como a injeção de sinais controlados utilizando um sintetizador de banda larga. 
+
+Adicionalmente, simulações computacionais em ambientes SPICE, QUCS e Python foram conduzidas para modelar os efeitos parasitários e otimizar o comportamento do retificador, possibilitando o ajuste fino da impedância e a validação dos parâmetros críticos de eficiência. A hipótese central deste estudo sustenta que é possível projetar circuitos compactos, eficientes e replicáveis, capazes de converter energia RF ambiente em níveis utilizáveis de tensão contínua, quando adequadamente otimizados em termos de casamento de impedância e arquitetura do retificador. 
+
+Os resultados experimentais e simulados confirmaram a viabilidade dessa proposta, demonstrando que a conversão de sinais eletromagnéticos ambientais pode se tornar uma fonte complementar e sustentável de energia para sistemas eletrônicos de baixa potência, com potencial de aplicação em dispositivos autônomos e infraestrutura IoT.
+
+
