@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Projeto Final de Curso - Forno Combinado
-image: /assets/img/placa_forno.png
+image: /assets/img/placa_forno2.png
 date:   2025-12-02 18:39:21 -0300
 categories: PFC
 author: Coordenação
