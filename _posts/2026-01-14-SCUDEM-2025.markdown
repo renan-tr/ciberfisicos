@@ -1,0 +1,24 @@
+---
+layout: post
+title:  PUC-SP no desafio mundial SCUDEM 2025
+image: /assets/img/scudem2025.png
+date:   2026-01-14 15:39:21 -0300
+categories: Desafios
+author: Coordenação
+
+intro: Equipe de Engenharia de Sistemas Ciber Físicos (ESCF) participa do desafio mundial SCUDEM 2025
+intro_image: /assets/img/scudem2025_2.png
+intro_image_ratio: is-4by3
+---
+
+Três alunos do curso de Engenharia de Sistemas Ciber Físicos (**ESCF**) da PUC-SP participaram do SCUDEM 2025, uma competição sobre modelagem e simulação de sistemas dinâmicos. Foi a primeira vez que a PUC-SP esteve presente nesse desafio mundial, levando o nome da Universidade para um ambiente acadêmico global que discute problemas atuais, com impacto direto em tecnologia, indústria e sociedade.
+
+O **S**imiode **C**hallenge **U**sing **D**ifferential **E**quations **M**odeling (**SCUDEM**) é um concurso no qual times do mundo todo desenvolvem, ao longo de algumas semanas, uma resposta para um problema real por meio de equações diferenciais e apresentam a solução por meio de um vídeo em inglês para avaliação por juízes de diferentes países.
+
+A equipe de ESCF escolheu o problema _An AI Ouroboros_. O nome faz referência ao símbolo da serpente que morde a própria cauda: uma metáfora para um fenômeno cada vez mais discutido na era da Inteligência Artificial (IA) quando modelos passam a ser treinados com conteúdos gerados por outras IAs, criando um “ciclo”. A pergunta central é: **o que acontece com a qualidade da informação e do aprendizado da IA quando esse ciclo cresce?**. Ou seja, existe o risco de a IA “aprender com cópias de cópias” e perder diversidade, precisão e confiabilidade ao longo do tempo.
+
+A equipe construiu um modelo para representar como erros e incertezas podem se acumular quando o treinamento passa a depender, cada vez mais, de conteúdo gerado por IA. O trabalho foi avaliado por juízes do SCUDEM e foi incluido na lista dos trabalhos de **Sucesso**. Entre os elogios, os avaliadores destacaram a clareza dos objetivos, a qualidade dos gráficos sobre os erros e o fato de o grupo conectar muito bem o modelo às perguntas do desafio. 
+
+Na ESCF, o estudante aprende a enxergar sistemas completos: software, dados, sensores, redes, automação, controle e o impacto no mundo real. O desafio do SCUDEM é um exemplo claro disso, pois exige que o time una pensamento matemático, programação e simulação, análise crítica e comunicação. E, neste caso, com um tema no centro das discussões atuais.
+
+A participação inédita da PUC-SP no SCUDEM 2025 mostra, na prática, como a **ESCF** coloca o aluno em contato com problemas atuais e desafiadores. Se você gosta de tecnologia e quer entender (e construir) soluções que conectam o mundo digital ao mundo real, a Engenharia de Sistemas Ciberfísicos pode ser o seu caminho.
